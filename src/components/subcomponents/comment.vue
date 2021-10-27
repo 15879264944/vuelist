@@ -25,7 +25,7 @@ import {Toast} from 'mint-ui'
 export default {
     data(){
         return{
-            pageIndex:1, //默认展示第一页数据
+            pageIndex:1, //默认展示第一页数据123456
             comments:[
                 {user_name:'匿名用户',add_time:'2020.05.20  13:14:52',content:'好喜欢你和happy'},
                 {user_name:'匿名用户',add_time:'2020.05.20  13:14:53',content:'看你们好开心的样子'},
