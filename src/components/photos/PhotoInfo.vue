@@ -43,7 +43,7 @@ export default {
                 {src:'http://pic.yupoo.com/56gee-sohu/C5zsFem0/fqJuh.jpg'},
                 {src:'https://bbs-fd.zol-img.com.cn/t_s800x5000/g5/M00/0B/04/ChMkJ1nCBD-IG9P9AAVSwZB56dgAAgoHAFMuT4ABVLZ062.jpg'},
             ],
-            thislist:[]
+            thislist:[],
         }
     },
      created(){
